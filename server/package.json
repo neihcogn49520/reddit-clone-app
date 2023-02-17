@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "reddit clone app",
+  "main": "index.js",
+  "author": "NgocHien",
+  "license": "MIT"
+}
